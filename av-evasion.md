@@ -1,6 +1,6 @@
 layout: page
-title: "AV-EVASION"
-permalink: /AV-EVASION
+title: "av-evasion"
+permalink: /av-evasion
 
 # AV evasion
 Falls into 2 main methods or categories
