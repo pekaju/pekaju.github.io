@@ -1,3 +1,7 @@
+layout: page
+title: "AV-EVASION"
+permalink: /AV-EVASION
+
 # AV evasion
 Falls into 2 main methods or categories
 
